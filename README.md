@@ -1,2 +1,2 @@
-# [bettermotherfuckingwebsite](https://github.com/trangcassim/bettermotherfuckingwebsite)
+# [bettermotherfuckingwebsite](bettermotherfuckingwebsite.html)
  
