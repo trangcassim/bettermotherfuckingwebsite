@@ -1,0 +1,30 @@
+em
+{
+font-style: italic;
+}
+
+strong
+{
+    font-weight: bold;
+}
+
+body
+{
+    max-width: 650px;
+    margin: 40px auto;
+    font-size: 18px;
+    color: #444;
+    line-height: 1.6;
+    padding: 010px;
+    margin-top: 5px;
+}
+
+h1,h2,h3
+{
+    line-height: 1.2;
+}
+
+a
+{
+    color: blue;
+}
